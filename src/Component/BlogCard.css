@@ -1,0 +1,25 @@
+.BlogCard{
+    width: 75%;
+    border-color: #F5F5F5 !important;
+    border:1px solid #F6F6F6;
+    box-shadow: 2px 2px 6px  #888888;
+}
+.BlogCard:hover{
+    box-shadow: 4px 4px 20px  #b1bff1;
+}
+.cardBody{
+    background-color: rgb(238, 247, 251);
+}
+.btn{
+    box-shadow: 0px 0px 0px !important;
+    background-color: #303030 !important;
+    width: 100px !important;
+}
+.btn:hover{
+    font-weight: 500;
+}
+@media (max-width:968px){
+    .BlogCard{
+        width: 90%;
+    }
+}

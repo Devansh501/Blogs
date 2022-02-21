@@ -1,0 +1,12 @@
+.NavBar{
+    background-color: #303030 !important;
+}
+.link{
+    color: white !important;
+    font-size: 18px;
+}
+.toggle_bar{
+    box-shadow: none !important;
+    border: 2px solid grey !important;
+    border-radius: 10% !important;
+}
